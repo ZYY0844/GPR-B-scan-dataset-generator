@@ -2,7 +2,7 @@
 generate B-scan for training neural network
 
 ## Introduction
-This is the repo contain all necessary code to generate a GPR B-scan dataset.
+This repo contains all necessary code to generate a GPR B-scan dataset. But you need install gprMax first.
 
 ## Generate Training Data
 
