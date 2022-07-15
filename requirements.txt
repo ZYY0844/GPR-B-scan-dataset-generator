@@ -10,7 +10,7 @@ bleach==3.1.0
 blessings==1.7
 certifi==2018.11.29
 chardet==3.0.4
-codecov==2.0.15
+codecov==2.0.16
 colorama==0.4.1
 colour-runner==0.0.5
 coverage==4.5.2
