@@ -110,7 +110,7 @@ vectormath==0.2.1
 virtualenv==16.3.0
 virtualenv-clone==0.5.1
 virtualenvwrapper==4.8.2
-vtk==8.1.2
+vtk==9.0.1
 vtki==0.16.1
 wcwidth==0.1.7
 webencodings==0.5.1
